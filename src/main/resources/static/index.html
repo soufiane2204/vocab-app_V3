@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Vocabulary Trainer</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="app-header">
+    <div class="header-inner">
+        <h1 data-i18n="app.title">🗣️ Vocabulary Trainer</h1>
+        <div id="breadcrumb" class="breadcrumb"></div>
+    </div>
+</header>
+
+<main id="app" class="app-main">
+
+    <!-- LANGUAGE: choose English or French, always first -->
+    <section id="view-language" class="view">
+        <h2>Choose your language</h2>
+        <p class="subtitle">Which language do you want to learn?</p>
+        <div class="home-grid">
+            <button class="home-card" data-lang="en">
+                <span class="home-emoji">🇬🇧</span>
+                <span class="home-title">English</span>
+                <span class="home-desc">Learn English vocabulary and grammar</span>
+            </button>
+            <button class="home-card" data-lang="fr">
+                <span class="home-emoji">🇫🇷</span>
+                <span class="home-title">Français</span>
+                <span class="home-desc">Apprenez le vocabulaire et la grammaire français</span>
+            </button>
+        </div>
+    </section>
+
+    <!-- HOME: choose Vocabulary or Practice -->
+    <section id="view-home" class="view hidden">
+        <button class="back-btn" data-back="language" data-i18n="home.back">&larr; Change language</button>
+        <h2 data-i18n="home.title">What would you like to do?</h2>
+        <p class="subtitle" data-i18n="home.subtitle">Learn new words, or practice using them.</p>
+        <div class="home-grid">
+            <button class="home-card" data-home="vocabulary">
+                <span class="home-emoji">📚</span>
+                <span class="home-title" data-i18n="home.vocab.title">Vocabulary</span>
+                <span class="home-desc" data-i18n-html="home.vocab.desc">Learn words by topic — Easy &amp; Normal levels, flashcards, quizzes</span>
+            </button>
+            <button class="home-card" data-home="practice">
+                <span class="home-emoji">🎯</span>
+                <span class="home-title" data-i18n="home.practice.title">Practice</span>
+                <span class="home-desc" data-i18n-html="home.practice.desc">Grammar in Context &amp; Reading — build real fluency</span>
+            </button>
+        </div>
+    </section>
+
+    <!-- VOCABULARY STEP 1: choose level -->
+    <section id="view-levels" class="view hidden">
+        <button class="back-btn" data-back="home" data-i18n="levels.back">&larr; Home</button>
+        <h2 data-i18n="levels.title">Choose your level</h2>
+        <p class="subtitle" data-i18n="levels.subtitle.vocab">Pick a difficulty to start learning words, verbs and adjectives.</p>
+        <div class="level-grid two-col">
+            <button class="level-card easy" data-level="easy">
+                <span class="level-emoji">🌱</span>
+                <span class="level-title" data-i18n="level.easy.title">Easy</span>
+                <span class="level-desc" data-i18n="level.easy.desc.vocab">Core everyday words — start here</span>
+            </button>
+            <button class="level-card normal" data-level="normal">
+                <span class="level-emoji">🌿</span>
+                <span class="level-title" data-i18n="level.normal.title">Normal</span>
+                <span class="level-desc" data-i18n="level.normal.desc.vocab">Solid intermediate vocabulary</span>
+            </button>
+        </div>
+    </section>
+
+    <!-- VOCABULARY STEP 2: choose category -->
+    <section id="view-categories" class="view hidden">
+        <button class="back-btn" data-back="levels" data-i18n="categories.back">&larr; Change level</button>
+        <h2 data-i18n="categories.title">Choose a topic</h2>
+        <div id="category-grid" class="category-grid"></div>
+    </section>
+
+    <!-- VOCABULARY STEP 3: word list -->
+    <section id="view-words" class="view hidden">
+        <button class="back-btn" data-back="categories" data-i18n="words.back">&larr; Change topic</button>
+        <div class="words-toolbar">
+            <h2 id="words-title">Words</h2>
+            <div class="mode-toggle">
+                <button id="mode-list" class="mode-btn active" data-i18n="mode.list">📃 List</button>
+                <button id="mode-flash" class="mode-btn" data-i18n="mode.flash">🃏 Flashcards</button>
+                <button id="mode-quiz" class="mode-btn" data-i18n="mode.quiz">🎯 Quiz</button>
+            </div>
+        </div>
+
+        <div id="list-mode" class="word-list"></div>
+
+        <div id="flash-mode" class="flashcard-wrap hidden">
+            <div id="flashcard" class="flashcard">
+                <div class="flash-front">
+                    <span id="flash-emoji" class="flash-emoji"></span>
+                    <span id="flash-word" class="flash-word">word</span>
+                    <span id="flash-pos" class="flash-pos">noun</span>
+                    <span id="flash-pronunciation" class="flash-pronunciation"></span>
+                    <button class="listen-btn big" id="flash-listen" data-i18n="common.listen">🔊 Listen</button>
+                    <p class="flip-hint" data-i18n-html="flash.hint">Click card to reveal meaning &amp; example</p>
+                </div>
+                <div class="flash-back hidden">
+                    <p class="flash-meaning" id="flash-meaning"></p>
+                    <p class="flash-example" id="flash-example"></p>
+                </div>
+            </div>
+            <div class="flash-nav">
+                <button id="flash-prev" data-i18n="common.prev">&larr; Prev</button>
+                <span id="flash-counter">1 / 10</span>
+                <button id="flash-next" data-i18n="common.next">Next &rarr;</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- PRACTICE STEP 1: choose level -->
+    <section id="view-practice-levels" class="view hidden">
+        <button class="back-btn" data-back="home" data-i18n="levels.back">&larr; Home</button>
+        <h2 data-i18n="levels.title">Choose your level</h2>
+        <p class="subtitle" data-i18n="practiceLevels.subtitle">Pick a difficulty for practice.</p>
+        <div class="level-grid two-col">
+            <button class="level-card easy" data-practice-level="easy">
+                <span class="level-emoji">🌱</span>
+                <span class="level-title" data-i18n="level.easy.title">Easy</span>
+                <span class="level-desc" data-i18n="level.easy.desc.practice">Core grammar &amp; simple sentences</span>
+            </button>
+            <button class="level-card normal" data-practice-level="normal">
+                <span class="level-emoji">🌿</span>
+                <span class="level-title" data-i18n="level.normal.title">Normal</span>
+                <span class="level-desc" data-i18n="level.normal.desc.practice">Intermediate grammar &amp; sentences</span>
+            </button>
+        </div>
+    </section>
+
+    <!-- PRACTICE STEP 2: choose Grammar in Context or Reading -->
+    <section id="view-practice-menu" class="view hidden">
+        <button class="back-btn" data-back="practice-levels" data-i18n="categories.back">&larr; Change level</button>
+        <h2 data-i18n="practiceMenu.title">Practice</h2>
+        <p class="subtitle" id="practice-menu-subtitle"></p>
+        <div class="home-grid">
+            <button class="home-card" data-practice="grammar">
+                <span class="home-emoji">📝</span>
+                <span class="home-title" data-i18n="practice.grammar.title">Grammar in Context</span>
+                <span class="home-desc" data-i18n-html="practice.grammar.desc">Fill-in-the-blank exercises: articles, prepositions, tenses, connectors &amp; more</span>
+            </button>
+            <button class="home-card" data-practice="reading">
+                <span class="home-emoji">📖</span>
+                <span class="home-title" data-i18n="practice.reading.title">Reading</span>
+                <span class="home-desc" data-i18n="practice.reading.desc">Read real sentences aloud, with audio to check yourself</span>
+            </button>
+        </div>
+    </section>
+
+    <!-- PRACTICE: Grammar category picker -->
+    <section id="view-grammar-categories" class="view hidden">
+        <button class="back-btn" data-back="practice-menu" data-i18n="grammarCategories.back">&larr; Back to Practice</button>
+        <h2 data-i18n="grammarCategories.title">📝 Grammar in Context</h2>
+        <p class="subtitle" data-i18n="grammarCategories.subtitle">Choose what you want to practice.</p>
+        <div id="grammar-category-grid" class="category-grid"></div>
+    </section>
+
+    <!-- PRACTICE: Verb Tenses — grouped multi-tense exercise (one base sentence, several tenses) -->
+    <section id="view-tense-groups" class="view hidden">
+        <button class="back-btn" data-back="grammar-categories" data-i18n="tenseGroups.back">&larr; Back to Grammar in Context</button>
+        <h2 id="tense-groups-title">⏳ Verb Tenses</h2>
+        <p class="subtitle" data-i18n="tenseGroups.subtitle">See how the same sentence changes across tenses. Fill in every blank.</p>
+
+        <div id="tense-group-progress" class="exercise-progress"></div>
+        <div class="progress-bar-track"><div id="tense-group-progress-fill" class="progress-bar-fill" style="width:0%"></div></div>
+
+        <div id="tense-group-card" class="exercise-card tense-group-card">
+            <p class="tense-group-base" id="tense-group-base"></p>
+            <div id="tense-rows" class="tense-rows"></div>
+            <button id="tense-group-next" class="exercise-next-btn hidden" data-i18n="tenseGroups.next">Next exercise &rarr;</button>
+        </div>
+
+        <div id="tense-group-summary" class="exercise-summary hidden">
+            <h3 data-i18n="common.wellDone">Well done! 🎉</h3>
+            <p id="tense-group-score"></p>
+            <button id="tense-group-retry" class="exercise-next-btn" data-i18n="common.tryAgain">Try again</button>
+        </div>
+    </section>
+
+    <!-- PRACTICE: Grammar in Context / Vocabulary Quiz (shared exercise engine) -->
+    <section id="view-exercises" class="view hidden">
+        <button class="back-btn" id="exercises-back-btn" data-i18n="exercises.back">&larr; Back</button>
+        <h2 id="exercises-title">Grammar Exercises</h2>
+        <p class="subtitle" id="exercises-subtitle"></p>
+
+        <div id="exercise-progress" class="exercise-progress"></div>
+        <div class="progress-bar-track"><div id="progress-bar-fill" class="progress-bar-fill" style="width:0%"></div></div>
+
+        <div id="exercise-card" class="exercise-card">
+            <p class="exercise-tag" id="exercise-tag"></p>
+            <p class="exercise-sentence" id="exercise-sentence"></p>
+            <div id="exercise-options" class="exercise-options"></div>
+            <div id="exercise-feedback" class="exercise-feedback hidden"></div>
+            <button id="exercise-next" class="exercise-next-btn hidden" data-i18n="exercises.next">Next question &rarr;</button>
+        </div>
+
+        <div id="exercise-summary" class="exercise-summary hidden">
+            <h3 data-i18n="common.wellDone">Well done! 🎉</h3>
+            <p id="exercise-score"></p>
+            <button id="exercise-retry" class="exercise-next-btn" data-i18n="common.tryAgain">Try again</button>
+        </div>
+    </section>
+
+    <!-- PRACTICE: Reading -->
+    <section id="view-reading" class="view hidden">
+        <button class="back-btn" data-back="practice-menu" data-i18n="reading.back">&larr; Back to Practice</button>
+        <h2 data-i18n="reading.title">📖 Reading Practice</h2>
+        <p class="subtitle" data-i18n="reading.subtitle">Read the sentence out loud, then press Listen to check yourself.</p>
+
+        <div id="reading-counter" class="exercise-progress"></div>
+        <div class="progress-bar-track"><div id="reading-progress-fill" class="progress-bar-fill" style="width:0%"></div></div>
+
+        <div class="reading-card">
+            <p id="reading-sentence" class="reading-sentence"></p>
+            <button class="listen-btn big" id="reading-listen" data-i18n="common.listen">🔊 Listen</button>
+        </div>
+        <div class="flash-nav">
+            <button id="reading-prev" data-i18n="common.prev">&larr; Prev</button>
+            <button id="reading-next" data-i18n="common.next">Next &rarr;</button>
+        </div>
+    </section>
+
+</main>
+
+<footer class="app-footer">
+    <p><span data-i18n="footer.text">Spring Boot backend · Data served from</span> <code>/api</code></p>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>

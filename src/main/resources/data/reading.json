@@ -1,0 +1,4902 @@
+[
+  {
+    "id": 1,
+    "level": "easy",
+    "text": "She walked instead of driving.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 2,
+    "level": "easy",
+    "text": "Pick up the pasta with your fork.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 3,
+    "level": "easy",
+    "text": "They stayed inside during the storm.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 4,
+    "level": "easy",
+    "text": "We have a reservation for seven o'clock.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 5,
+    "level": "easy",
+    "text": "She tried the new recipe last night.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 6,
+    "level": "easy",
+    "text": "We took the elevator to our room.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 7,
+    "level": "easy",
+    "text": "The shop is on Fifth Avenue.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 8,
+    "level": "easy",
+    "text": "The garden is behind the house.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 9,
+    "level": "easy",
+    "text": "She spends hours in the kitchen every day.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 10,
+    "level": "easy",
+    "text": "We mixed chemicals in the science lab.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 11,
+    "level": "easy",
+    "text": "She gave me good advice about my job.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 12,
+    "level": "easy",
+    "text": "We had to wait for a table.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 13,
+    "level": "easy",
+    "text": "The mechanic fixed the car's engine.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 14,
+    "level": "easy",
+    "text": "They ate chips with a cheese dip.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 15,
+    "level": "easy",
+    "text": "Our guide told us about the temple's history.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 16,
+    "level": "easy",
+    "text": "The lamb ran across the field.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 17,
+    "level": "easy",
+    "text": "The deadline for the report is Friday.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 18,
+    "level": "easy",
+    "text": "They flipped the closed sign at ten.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 19,
+    "level": "easy",
+    "text": "The turtle hid inside its shell.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 20,
+    "level": "easy",
+    "text": "I feel much better today.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 21,
+    "level": "easy",
+    "text": "He is on a business trip this week.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 22,
+    "level": "easy",
+    "text": "We planned the trip in our group chat.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 23,
+    "level": "easy",
+    "text": "I'm busy right now.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 24,
+    "level": "easy",
+    "text": "It's never too late to learn.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 25,
+    "level": "easy",
+    "text": "That's all for today, thank you.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 26,
+    "level": "easy",
+    "text": "She waited at the checkout counter.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 27,
+    "level": "easy",
+    "text": "The hotel was too expensive for us.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 28,
+    "level": "easy",
+    "text": "Use a spoon to eat your soup.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 29,
+    "level": "easy",
+    "text": "The store had a buy one get one free offer.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 30,
+    "level": "easy",
+    "text": "The snail moved slowly across the leaf.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 31,
+    "level": "easy",
+    "text": "We walked to the store together.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 32,
+    "level": "easy",
+    "text": "I love the city. On the other hand, it's noisy.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 33,
+    "level": "easy",
+    "text": "He is shy at first.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 34,
+    "level": "easy",
+    "text": "He shared his feelings with his best friend.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 35,
+    "level": "easy",
+    "text": "They planned the trip in the friend group chat.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 36,
+    "level": "easy",
+    "text": "The reunion was a joyful celebration.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 37,
+    "level": "easy",
+    "text": "We buy fresh vegetables at the market.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 38,
+    "level": "easy",
+    "text": "He stubbed his toe on the door.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 39,
+    "level": "easy",
+    "text": "He is my old college buddy.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 40,
+    "level": "easy",
+    "text": "She prefers online shopping to visiting stores.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 41,
+    "level": "easy",
+    "text": "He had a physical exam before starting the job.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 42,
+    "level": "easy",
+    "text": "He used a map app to find the restaurant.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 43,
+    "level": "easy",
+    "text": "The ambulance arrived quickly.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 44,
+    "level": "easy",
+    "text": "The cashier used the cash register.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 45,
+    "level": "easy",
+    "text": "He scanned his id card to enter the building.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 46,
+    "level": "easy",
+    "text": "The cashier gave her the receipt.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 47,
+    "level": "easy",
+    "text": "The house number is written on the door.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 48,
+    "level": "easy",
+    "text": "They met at the street corner.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 49,
+    "level": "easy",
+    "text": "I can see the mountains from here.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 50,
+    "level": "easy",
+    "text": "So in short, we need more time.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 51,
+    "level": "easy",
+    "text": "She told him to calm down.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 52,
+    "level": "easy",
+    "text": "I sort of agree with you.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 53,
+    "level": "easy",
+    "text": "The kitten played with a ball of yarn.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 54,
+    "level": "easy",
+    "text": "She fried the eggs in oil.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 55,
+    "level": "easy",
+    "text": "A beetle crawled across the path.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 56,
+    "level": "easy",
+    "text": "I'll see you next week.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 57,
+    "level": "easy",
+    "text": "She chose the vegetarian option.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 58,
+    "level": "easy",
+    "text": "She returned the shirt because it didn't fit.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 59,
+    "level": "easy",
+    "text": "The waiter brought a bread basket.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 60,
+    "level": "easy",
+    "text": "A ladybug landed on the leaf.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 61,
+    "level": "easy",
+    "text": "He has a part-time job at a cafe.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 62,
+    "level": "easy",
+    "text": "She felt hopeless about the situation.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 63,
+    "level": "easy",
+    "text": "She washes the dishes after dinner.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 64,
+    "level": "easy",
+    "text": "She grabbed her food from the pick-up counter.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 65,
+    "level": "easy",
+    "text": "Please drink some water.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 66,
+    "level": "easy",
+    "text": "He felt forgotten after missing the invite.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 67,
+    "level": "easy",
+    "text": "He paid at the payment counter.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 68,
+    "level": "easy",
+    "text": "Too much stress can cause headaches.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 69,
+    "level": "easy",
+    "text": "Turn left at the corner.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 70,
+    "level": "easy",
+    "text": "He put ketchup on his fries.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 71,
+    "level": "easy",
+    "text": "His comment hurt her feelings.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 72,
+    "level": "easy",
+    "text": "No idea, I've never seen that before.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 73,
+    "level": "easy",
+    "text": "He is always kind to his friends.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 74,
+    "level": "easy",
+    "text": "The alligator floated near the riverbank.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 75,
+    "level": "easy",
+    "text": "The cat is sleeping on the sofa.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 76,
+    "level": "easy",
+    "text": "The manager checked in with each supervisee.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 77,
+    "level": "easy",
+    "text": "The exam starts at nine o'clock.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 78,
+    "level": "easy",
+    "text": "Watch out, the floor is wet!",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 79,
+    "level": "easy",
+    "text": "The package delivery arrived on time.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 80,
+    "level": "easy",
+    "text": "They shopped for furniture at the department store.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 81,
+    "level": "easy",
+    "text": "He told a funny joke at the party.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 82,
+    "level": "easy",
+    "text": "She invited her friends over for dinner.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 83,
+    "level": "easy",
+    "text": "New employees must learn the workplace rules.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 84,
+    "level": "easy",
+    "text": "Basically, we need more time.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 85,
+    "level": "easy",
+    "text": "Check the business hours before you go.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 86,
+    "level": "easy",
+    "text": "He caught the ball easily.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 87,
+    "level": "easy",
+    "text": "Excuse me, can I ask a question?",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 88,
+    "level": "easy",
+    "text": "He finished his homework early.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 89,
+    "level": "easy",
+    "text": "They took a photo next to the statue.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 90,
+    "level": "easy",
+    "text": "He introduced me to his new friend.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 91,
+    "level": "easy",
+    "text": "Housekeeping cleaned our room while we were out.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 92,
+    "level": "easy",
+    "text": "He stood near the door.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 93,
+    "level": "easy",
+    "text": "He has a membership at the warehouse store.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 94,
+    "level": "easy",
+    "text": "Their room had a balcony with a sea view.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 95,
+    "level": "easy",
+    "text": "He's in a bad mood today.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 96,
+    "level": "easy",
+    "text": "She has six cousins.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 97,
+    "level": "easy",
+    "text": "She hopes to visit Japan someday.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 98,
+    "level": "easy",
+    "text": "He received a gift from his friend.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 99,
+    "level": "easy",
+    "text": "She submitted the report on time.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 100,
+    "level": "easy",
+    "text": "She felt tired after the long day.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 101,
+    "level": "easy",
+    "text": "She checked the price tag before buying.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 102,
+    "level": "easy",
+    "text": "They chatted in the break room over coffee.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 103,
+    "level": "easy",
+    "text": "Our teacher explained the lesson twice.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 104,
+    "level": "easy",
+    "text": "Either way, we'll figure it out.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 105,
+    "level": "easy",
+    "text": "He tries to avoid junk food.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 106,
+    "level": "easy",
+    "text": "The garden was colorful in spring.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 107,
+    "level": "easy",
+    "text": "Math is on her subject list this year.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 108,
+    "level": "easy",
+    "text": "They rode the cable car to the summit.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 109,
+    "level": "easy",
+    "text": "My nephew loves soccer.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 110,
+    "level": "easy",
+    "text": "He had a hearing test after the concert.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 111,
+    "level": "easy",
+    "text": "He looked at the painting.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 112,
+    "level": "easy",
+    "text": "She was thrilled to get the job.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 113,
+    "level": "easy",
+    "text": "He asked for the bill.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 114,
+    "level": "easy",
+    "text": "She took cough syrup before bed.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 115,
+    "level": "easy",
+    "text": "They saw a bear near the forest.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 116,
+    "level": "easy",
+    "text": "The bus arrives every fifteen minutes.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 117,
+    "level": "easy",
+    "text": "Last but not least, remember to sign the form.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 118,
+    "level": "easy",
+    "text": "A picnic this weekend? Count me in!",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 119,
+    "level": "easy",
+    "text": "They checked in at the host stand.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 120,
+    "level": "easy",
+    "text": "She had a great idea for the project.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 121,
+    "level": "easy",
+    "text": "They built a treehouse together.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 122,
+    "level": "easy",
+    "text": "He wrote down the address.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 123,
+    "level": "easy",
+    "text": "We rented a car for the trip.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 124,
+    "level": "easy",
+    "text": "She visits the dentist every six months.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 125,
+    "level": "easy",
+    "text": "The checkup results were normal.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 126,
+    "level": "easy",
+    "text": "They booked their trip through a travel agency.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 127,
+    "level": "easy",
+    "text": "She's getting better after the flu.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 128,
+    "level": "easy",
+    "text": "She took her son to the pediatrician.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 129,
+    "level": "easy",
+    "text": "Our server was very friendly.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 130,
+    "level": "easy",
+    "text": "They had apple pie for dessert.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 131,
+    "level": "easy",
+    "text": "She rides the school bus every morning.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 132,
+    "level": "easy",
+    "text": "Don't touch the wet paint.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 133,
+    "level": "easy",
+    "text": "Happy birthday! I hope you have a great day.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 134,
+    "level": "easy",
+    "text": "Actually, I think it's the other way around.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 135,
+    "level": "easy",
+    "text": "He painted the wall blue.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 136,
+    "level": "easy",
+    "text": "I'm fine, thank you.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 137,
+    "level": "easy",
+    "text": "She opened her mouth to speak.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 138,
+    "level": "easy",
+    "text": "The city has a million residents.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 139,
+    "level": "easy",
+    "text": "She was promoted after two years.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 140,
+    "level": "easy",
+    "text": "She has long brown hair.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 141,
+    "level": "easy",
+    "text": "The view is amazing at the top of the hill.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 142,
+    "level": "easy",
+    "text": "She wore a long skirt to the event.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 143,
+    "level": "easy",
+    "text": "The store is far from here.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 144,
+    "level": "easy",
+    "text": "His annual salary increased this year.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 145,
+    "level": "easy",
+    "text": "She relaxes with yoga after work.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 146,
+    "level": "easy",
+    "text": "Smoking harms the lungs.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 147,
+    "level": "easy",
+    "text": "He sent a postcard from Rome.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 148,
+    "level": "easy",
+    "text": "He was shy at the new school.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 149,
+    "level": "easy",
+    "text": "Here we go, let's begin!",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 150,
+    "level": "easy",
+    "text": "They had a quick coworker chat over coffee.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 151,
+    "level": "easy",
+    "text": "The cow grazed in the field.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 152,
+    "level": "easy",
+    "text": "They disagreed about which movie to watch.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 153,
+    "level": "easy",
+    "text": "We ordered pasta and salad.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 154,
+    "level": "easy",
+    "text": "The koala slept in the tree all day.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 155,
+    "level": "easy",
+    "text": "Her skillset includes coding and design.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 156,
+    "level": "easy",
+    "text": "They cooked burgers on the grill.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 157,
+    "level": "easy",
+    "text": "I was sick. That's why I missed class.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 158,
+    "level": "easy",
+    "text": "She kicked the ball into the goal.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 159,
+    "level": "easy",
+    "text": "The sheep grazed on the hillside.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 160,
+    "level": "easy",
+    "text": "The office building has ten floors.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 161,
+    "level": "easy",
+    "text": "The recipe is simple.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 162,
+    "level": "easy",
+    "text": "He twisted his ankle running.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 163,
+    "level": "easy",
+    "text": "We sat in a booth by the wall.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 164,
+    "level": "easy",
+    "text": "It's raining, so let's stay indoors.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 165,
+    "level": "easy",
+    "text": "Their food arrived quickly.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 166,
+    "level": "easy",
+    "text": "She served a small portion of rice.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 167,
+    "level": "easy",
+    "text": "Her desk was messy.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 168,
+    "level": "easy",
+    "text": "She offered kind words after his loss.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 169,
+    "level": "easy",
+    "text": "The soup was thick and creamy.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 170,
+    "level": "easy",
+    "text": "She earned overtime pay for the weekend shift.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 171,
+    "level": "easy",
+    "text": "She is twenty years old.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 172,
+    "level": "easy",
+    "text": "He does exercise every morning.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 173,
+    "level": "easy",
+    "text": "The large party needed several tables.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 174,
+    "level": "easy",
+    "text": "She left right after the meeting.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 175,
+    "level": "easy",
+    "text": "He arrived soon after the call.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 176,
+    "level": "easy",
+    "text": "The waiting time was about thirty minutes.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 177,
+    "level": "easy",
+    "text": "They had a barbecue in the backyard.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 178,
+    "level": "easy",
+    "text": "Maybe we can go tomorrow.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 179,
+    "level": "easy",
+    "text": "She rides her bike in the bike lane.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 180,
+    "level": "easy",
+    "text": "My brother plays football on weekends.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 181,
+    "level": "easy",
+    "text": "They set up a play date for the kids.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 182,
+    "level": "easy",
+    "text": "She used a color pencil to draw the sun.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 183,
+    "level": "easy",
+    "text": "They traveled during summer break.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 184,
+    "level": "easy",
+    "text": "Anyway, as I was saying...",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 185,
+    "level": "easy",
+    "text": "She met with her school counselor about college plans.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 186,
+    "level": "easy",
+    "text": "The kids play together after school.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 187,
+    "level": "easy",
+    "text": "Some fruits, for example apples, are cheap.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 188,
+    "level": "easy",
+    "text": "He hid his emotions during the meeting.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 189,
+    "level": "easy",
+    "text": "They got married last year.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 190,
+    "level": "easy",
+    "text": "She is very smart in math.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 191,
+    "level": "easy",
+    "text": "Take care, see you soon.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 192,
+    "level": "easy",
+    "text": "The piglet rolled in the mud.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 193,
+    "level": "easy",
+    "text": "Similarly, the second option is cheap too.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 194,
+    "level": "easy",
+    "text": "She cut up a fresh pineapple.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 195,
+    "level": "easy",
+    "text": "He felt sad after the movie.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 196,
+    "level": "easy",
+    "text": "In the end, they chose the cheaper option.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 197,
+    "level": "easy",
+    "text": "It's a one-way street, so be careful.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 198,
+    "level": "easy",
+    "text": "The teacher's assistant graded the quizzes.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 199,
+    "level": "easy",
+    "text": "The medicine tasted bitter.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 200,
+    "level": "easy",
+    "text": "He wore sandals to walk on the beach.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 201,
+    "level": "normal",
+    "text": "They toured the historic district.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 202,
+    "level": "normal",
+    "text": "She gave the report meticulous attention.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 203,
+    "level": "normal",
+    "text": "The cake has a light, fluffy texture.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 204,
+    "level": "normal",
+    "text": "Frogs live near the pond in the park.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 205,
+    "level": "normal",
+    "text": "She used a city map app to navigate.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 206,
+    "level": "normal",
+    "text": "There was a sense of cordiality at the reunion.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 207,
+    "level": "normal",
+    "text": "Thousands make the pilgrimage every year.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 208,
+    "level": "normal",
+    "text": "She received a positive appraisal this year.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 209,
+    "level": "normal",
+    "text": "The country adopted universal healthcare.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 210,
+    "level": "normal",
+    "text": "They chose off-peak travel to avoid crowds.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 211,
+    "level": "normal",
+    "text": "Regarding your question, the answer is yes.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 212,
+    "level": "normal",
+    "text": "Prices are set by supply and demand.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 213,
+    "level": "normal",
+    "text": "He felt confident about the exam.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 214,
+    "level": "normal",
+    "text": "They live as a typical nuclear family.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 215,
+    "level": "normal",
+    "text": "She summarized the report in one page.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 216,
+    "level": "normal",
+    "text": "He got cold feet before the wedding.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 217,
+    "level": "normal",
+    "text": "Procrastination hurt his exam preparation.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 218,
+    "level": "normal",
+    "text": "The dish had a nice textural contrast between crispy and soft.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 219,
+    "level": "normal",
+    "text": "They submitted the request to the mayor's office.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 220,
+    "level": "normal",
+    "text": "She enrolled in an evening art class.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 221,
+    "level": "normal",
+    "text": "Her professional network helped her find a new job.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 222,
+    "level": "normal",
+    "text": "They integrated the new software into the system.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 223,
+    "level": "normal",
+    "text": "She was exasperated by the constant delays.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 224,
+    "level": "normal",
+    "text": "He felt euphoric after finishing the marathon.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 225,
+    "level": "normal",
+    "text": "Chickens establish a clear animal hierarchy, the pecking order.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 226,
+    "level": "normal",
+    "text": "The restaurant follows a farm-to-table philosophy.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 227,
+    "level": "normal",
+    "text": "She read product reviews before buying.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 228,
+    "level": "normal",
+    "text": "She reported a fraudulent charge on her card.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 229,
+    "level": "normal",
+    "text": "They postponed the meeting until Friday.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 230,
+    "level": "normal",
+    "text": "She coordinates the event schedule.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 231,
+    "level": "normal",
+    "text": "They eventually found a solution.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 232,
+    "level": "normal",
+    "text": "The panda is an endangered species.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 233,
+    "level": "normal",
+    "text": "The restaurant's profit margin improved this year.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 234,
+    "level": "normal",
+    "text": "Our checked baggage arrived a few minutes late.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 235,
+    "level": "normal",
+    "text": "All things considered, it was a good decision.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 236,
+    "level": "normal",
+    "text": "They stuck to their budget while shopping.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 237,
+    "level": "normal",
+    "text": "She's an open book about her emotions.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 238,
+    "level": "normal",
+    "text": "He forgave his friend quickly.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 239,
+    "level": "normal",
+    "text": "He upgraded to business class for the long flight.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 240,
+    "level": "normal",
+    "text": "The bank recorded the transaction immediately.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 241,
+    "level": "normal",
+    "text": "They work with a local produce supplier.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 242,
+    "level": "normal",
+    "text": "They attended a public hearing about the new road.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 243,
+    "level": "normal",
+    "text": "Antibodies help protect against future infection.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 244,
+    "level": "normal",
+    "text": "There was a sudden temperature drop overnight.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 245,
+    "level": "normal",
+    "text": "Can you keep an eye on my bag?",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 246,
+    "level": "normal",
+    "text": "She spent her last weeks in hospice care.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 247,
+    "level": "normal",
+    "text": "The results appear promising so far.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 248,
+    "level": "normal",
+    "text": "They store old boxes in the basement.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 249,
+    "level": "normal",
+    "text": "He felt anxious before the big presentation.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 250,
+    "level": "normal",
+    "text": "Poaching threatens the elephant population.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 251,
+    "level": "normal",
+    "text": "Budgeting helps avoid overspending.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 252,
+    "level": "normal",
+    "text": "The lioness protects her offspring fiercely.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 253,
+    "level": "normal",
+    "text": "We travel in the off-season to save money.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 254,
+    "level": "normal",
+    "text": "He's a gourmand who loves rich, hearty meals.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 255,
+    "level": "normal",
+    "text": "The firm has a strong succession planning process.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 256,
+    "level": "normal",
+    "text": "The restaurant offers a prix fixe menu on weekdays.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 257,
+    "level": "normal",
+    "text": "The movie had a gut-wrenching ending.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 258,
+    "level": "normal",
+    "text": "In the grand scheme of things, it's a minor issue.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 259,
+    "level": "normal",
+    "text": "I need to revise for tomorrow's exam.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 260,
+    "level": "normal",
+    "text": "The doctor recommended bedrest for a week.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 261,
+    "level": "normal",
+    "text": "He received a severance package after the layoff.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 262,
+    "level": "normal",
+    "text": "The sign prohibits smoking inside.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 263,
+    "level": "normal",
+    "text": "Garnish the plate with fresh parsley.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 264,
+    "level": "normal",
+    "text": "He has a serious peanut allergy.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 265,
+    "level": "normal",
+    "text": "Migration is driven by instinct, not learning.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 266,
+    "level": "normal",
+    "text": "Owls are typical nocturnal animals.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 267,
+    "level": "normal",
+    "text": "They moved to a quiet suburb.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 268,
+    "level": "normal",
+    "text": "The new logo strengthened the brand identity.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 269,
+    "level": "normal",
+    "text": "The company gives employees a lot of autonomy.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 270,
+    "level": "normal",
+    "text": "The tasting menu was a gastronomic delight.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 271,
+    "level": "normal",
+    "text": "The bridge is a major public infrastructure project.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 272,
+    "level": "normal",
+    "text": "The camouflaged lizard was hard to spot.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 273,
+    "level": "normal",
+    "text": "The house is huge, not to mention beautiful.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 274,
+    "level": "normal",
+    "text": "She found a great travel companion for the journey.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 275,
+    "level": "normal",
+    "text": "The food critic gave the restaurant a glowing review.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 276,
+    "level": "normal",
+    "text": "She accepted the job offer.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 277,
+    "level": "normal",
+    "text": "Working overtime every day can be counterproductive.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 278,
+    "level": "normal",
+    "text": "Check the cardinal direction before hiking.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 279,
+    "level": "normal",
+    "text": "They bought the fridge on an installment plan.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 280,
+    "level": "normal",
+    "text": "The company offers professional development courses.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 281,
+    "level": "normal",
+    "text": "He reviewed his bank statement carefully.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 282,
+    "level": "normal",
+    "text": "Their friendship grew due to their proximity at work.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 283,
+    "level": "normal",
+    "text": "It'll take an hour, give or take.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 284,
+    "level": "normal",
+    "text": "He was largely an autodidact in mathematics.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 285,
+    "level": "normal",
+    "text": "They communicate mainly by email.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 286,
+    "level": "normal",
+    "text": "The campaign generated a lot of interest.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 287,
+    "level": "normal",
+    "text": "He signed up for an online course in coding.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 288,
+    "level": "normal",
+    "text": "She felt vulnerable sharing her problems with him.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 289,
+    "level": "normal",
+    "text": "The forlorn puppy waited by the door.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 290,
+    "level": "normal",
+    "text": "He led a peripatetic life as a foreign correspondent.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 291,
+    "level": "normal",
+    "text": "The old town center is a pedestrian zone.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 292,
+    "level": "normal",
+    "text": "They realized too late it was a dead end.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 293,
+    "level": "normal",
+    "text": "The Eiffel Tower is a famous landmark.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 294,
+    "level": "normal",
+    "text": "She is a respected scholar of ancient history.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 295,
+    "level": "normal",
+    "text": "She attends therapy weekly.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 296,
+    "level": "normal",
+    "text": "Off the top of my head, I'd say around fifty.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 297,
+    "level": "normal",
+    "text": "Their friendship is based on mutual respect.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 298,
+    "level": "normal",
+    "text": "The company launched a new marketing campaign.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 299,
+    "level": "normal",
+    "text": "They went on a safari in Kenya.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 300,
+    "level": "normal",
+    "text": "Drive slowly through the construction zone.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 301,
+    "level": "normal",
+    "text": "Bonuses are a common incentive for salespeople.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 302,
+    "level": "normal",
+    "text": "She estimated the project would take a month.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 303,
+    "level": "normal",
+    "text": "The new data vindicated her original hypothesis.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 304,
+    "level": "normal",
+    "text": "The restaurant offered a charcuterie board to start.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 305,
+    "level": "normal",
+    "text": "The company suffers from high staff attrition.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 306,
+    "level": "normal",
+    "text": "The market was full of colorful fabrics.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 307,
+    "level": "normal",
+    "text": "They took the injured bird to a rescue center.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 308,
+    "level": "normal",
+    "text": "They streamlined the approval process.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 309,
+    "level": "normal",
+    "text": "She shops online during Black Friday.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 310,
+    "level": "normal",
+    "text": "She apologized for being late.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 311,
+    "level": "normal",
+    "text": "Three candidates were shortlisted for the role.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 312,
+    "level": "normal",
+    "text": "He felt emotionally drained after the argument.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 313,
+    "level": "normal",
+    "text": "She practices breathing exercises for exam anxiety.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 314,
+    "level": "normal",
+    "text": "They enjoyed a bottomless brunch on Sunday.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 315,
+    "level": "normal",
+    "text": "To summarize, sales grew and costs fell.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 316,
+    "level": "normal",
+    "text": "The speech was full of raw emotion.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 317,
+    "level": "normal",
+    "text": "Scar tissue formed after the surgery.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 318,
+    "level": "normal",
+    "text": "Snakes shed their skin several times a year.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 319,
+    "level": "normal",
+    "text": "She gives her son a weekly allowance.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 320,
+    "level": "normal",
+    "text": "Let's get straight to the point.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 321,
+    "level": "normal",
+    "text": "She became flustered during the interview.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 322,
+    "level": "normal",
+    "text": "The road closure caused delays.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 323,
+    "level": "normal",
+    "text": "He pulled a muscle while running.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 324,
+    "level": "normal",
+    "text": "They reached a compromise after the disagreement.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 325,
+    "level": "normal",
+    "text": "She received unconditional support from her family.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 326,
+    "level": "normal",
+    "text": "She obtained permission to leave early.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 327,
+    "level": "normal",
+    "text": "She picked out a nice outfit for the interview.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 328,
+    "level": "normal",
+    "text": "He earnestly apologized for the mistake.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 329,
+    "level": "normal",
+    "text": "Prior to the meeting, review the notes.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 330,
+    "level": "normal",
+    "text": "She printed out her travel itinerary before leaving.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 331,
+    "level": "normal",
+    "text": "She prepared the report for the meeting.",
+    "topic": "verbs",
+    "language": "en"
+  },
+  {
+    "id": 332,
+    "level": "normal",
+    "text": "Pet adoption saves many animals from shelters.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 333,
+    "level": "normal",
+    "text": "Preheat the oven to 200 degrees.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 334,
+    "level": "normal",
+    "text": "The study appeared in a peer-reviewed journal.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 335,
+    "level": "normal",
+    "text": "She was mesmerized by the sunset.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 336,
+    "level": "normal",
+    "text": "From what I understand, the deal is off.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 337,
+    "level": "normal",
+    "text": "She works in real estate.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 338,
+    "level": "normal",
+    "text": "My classmate helped me understand the homework.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 339,
+    "level": "normal",
+    "text": "As a rule of thumb, arrive fifteen minutes early.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 340,
+    "level": "normal",
+    "text": "No offense, but I think you're wrong.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 341,
+    "level": "normal",
+    "text": "The metropolitan area has millions of residents.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 342,
+    "level": "normal",
+    "text": "They found a great vantage point for photos.",
+    "topic": "directions",
+    "language": "en"
+  },
+  {
+    "id": 343,
+    "level": "normal",
+    "text": "He studied cartography before planning the expedition.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 344,
+    "level": "normal",
+    "text": "Restaurants must follow strict health regulations.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 345,
+    "level": "normal",
+    "text": "He felt betrayed when his friend shared his secret.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 346,
+    "level": "normal",
+    "text": "Besides, it's too late to change now.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 347,
+    "level": "normal",
+    "text": "He told a joke to break the ice.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 348,
+    "level": "normal",
+    "text": "They decided to go on a spur-of-the-moment trip.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 349,
+    "level": "normal",
+    "text": "I think you got the wrong end of the stick.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 350,
+    "level": "normal",
+    "text": "His old jeans were faded from washing.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 351,
+    "level": "normal",
+    "text": "The plate arrived beautifully garnished.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 352,
+    "level": "normal",
+    "text": "To cut a long story short, we ended up walking home.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 353,
+    "level": "normal",
+    "text": "The nervous system sends signals throughout the body.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 354,
+    "level": "normal",
+    "text": "The cafe is our usual hangout spot.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 355,
+    "level": "normal",
+    "text": "She has spent her whole career in academia.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 356,
+    "level": "normal",
+    "text": "The teacher evaluated each student's presentation.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 357,
+    "level": "normal",
+    "text": "He's been on edge since the accident.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 358,
+    "level": "normal",
+    "text": "The company values workplace diversity in hiring.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 359,
+    "level": "normal",
+    "text": "The online course required a proctored exam.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 360,
+    "level": "normal",
+    "text": "Taking into account the delays, we're still on track.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 361,
+    "level": "normal",
+    "text": "Only a few passengers flew first class.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 362,
+    "level": "normal",
+    "text": "The gullible customer believed the false advertisement.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 363,
+    "level": "normal",
+    "text": "The village is remote and hard to reach.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 364,
+    "level": "normal",
+    "text": "She chose the generic medicine to save money.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 365,
+    "level": "normal",
+    "text": "More often than not, he arrives on time.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 366,
+    "level": "normal",
+    "text": "Marinate the chicken overnight for more flavor.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 367,
+    "level": "normal",
+    "text": "Wolves mark their territory with scent.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 368,
+    "level": "normal",
+    "text": "Her wanderlust took her to over thirty countries.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 369,
+    "level": "normal",
+    "text": "The park protects local wildlife.",
+    "topic": "animals",
+    "language": "en"
+  },
+  {
+    "id": 370,
+    "level": "normal",
+    "text": "He lived an itinerant life as a musician.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 371,
+    "level": "normal",
+    "text": "The waiter flambeed the dessert at the table.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 372,
+    "level": "normal",
+    "text": "She manages logistics for the shipping company.",
+    "topic": "work",
+    "language": "en"
+  },
+  {
+    "id": 373,
+    "level": "normal",
+    "text": "I'll go out on a limb and say we'll win.",
+    "topic": "common_expressions",
+    "language": "en"
+  },
+  {
+    "id": 374,
+    "level": "normal",
+    "text": "The program is known for its academic rigor.",
+    "topic": "studies",
+    "language": "en"
+  },
+  {
+    "id": 375,
+    "level": "normal",
+    "text": "Check your baggage allowance before packing.",
+    "topic": "travel",
+    "language": "en"
+  },
+  {
+    "id": 376,
+    "level": "normal",
+    "text": "The doctor calculated her body mass index.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 377,
+    "level": "normal",
+    "text": "A light drizzle started during the walk.",
+    "topic": "everyday_life",
+    "language": "en"
+  },
+  {
+    "id": 378,
+    "level": "normal",
+    "text": "The gastronome reviewed the tasting menu in detail.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 379,
+    "level": "normal",
+    "text": "The item is on backorder until next month.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 380,
+    "level": "normal",
+    "text": "The seafood platter is the house specialty.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 381,
+    "level": "normal",
+    "text": "He felt buyer's remorse after the expensive purchase.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 382,
+    "level": "normal",
+    "text": "Let's cut to the chase and discuss the budget.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 383,
+    "level": "normal",
+    "text": "It's risky, which is all the more reason to plan carefully.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 384,
+    "level": "normal",
+    "text": "As one might expect, prices rose.",
+    "topic": "connectors",
+    "language": "en"
+  },
+  {
+    "id": 385,
+    "level": "normal",
+    "text": "She handled the antique with meticulous care.",
+    "topic": "adjectives",
+    "language": "en"
+  },
+  {
+    "id": 386,
+    "level": "normal",
+    "text": "They used a food delivery app for dinner.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 387,
+    "level": "normal",
+    "text": "The family was in mourning for weeks.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 388,
+    "level": "normal",
+    "text": "His emotional detachment worried his friends.",
+    "topic": "emotions",
+    "language": "en"
+  },
+  {
+    "id": 389,
+    "level": "normal",
+    "text": "The companies were fined for price fixing.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 390,
+    "level": "normal",
+    "text": "She monitors her blood sugar daily.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 391,
+    "level": "normal",
+    "text": "He underwent rehabilitation after surgery.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 392,
+    "level": "normal",
+    "text": "There is still stigma around mental illness.",
+    "topic": "health",
+    "language": "en"
+  },
+  {
+    "id": 393,
+    "level": "normal",
+    "text": "She sets healthy boundaries with her friends.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 394,
+    "level": "normal",
+    "text": "She reviewed fine dining etiquette before the event.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 395,
+    "level": "normal",
+    "text": "They split the bill evenly.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 396,
+    "level": "normal",
+    "text": "They buy groceries in bulk at the wholesale club.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 397,
+    "level": "normal",
+    "text": "She expressed her gratitude for his support.",
+    "topic": "friends",
+    "language": "en"
+  },
+  {
+    "id": 398,
+    "level": "normal",
+    "text": "Add lemon zest to brighten the dish.",
+    "topic": "food",
+    "language": "en"
+  },
+  {
+    "id": 399,
+    "level": "normal",
+    "text": "They took out a loan to buy the car.",
+    "topic": "shopping",
+    "language": "en"
+  },
+  {
+    "id": 400,
+    "level": "normal",
+    "text": "The dish reflected great culinary craftsmanship.",
+    "topic": "restaurants",
+    "language": "en"
+  },
+  {
+    "id": 401,
+    "level": "normal",
+    "text": "Ils ont trouvé un fournisseur fiable à l'étranger.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 402,
+    "level": "easy",
+    "text": "Ma grand-mère raconte de belles histoires.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 403,
+    "level": "easy",
+    "text": "La tempête a abattu plusieurs arbres.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 404,
+    "level": "easy",
+    "text": "Elle a noté la date sur le calendrier.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 405,
+    "level": "easy",
+    "text": "Il y a un bon restaurant tout proche.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 406,
+    "level": "normal",
+    "text": "Elle a réparé la chemise avec quelques points de couture.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 407,
+    "level": "easy",
+    "text": "Il y a trois pommes dans le bol.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 408,
+    "level": "normal",
+    "text": "La ponctualité est appréciée dans cette entreprise.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 409,
+    "level": "normal",
+    "text": "Elle a vérifié l'étiquette de prix avant d'acheter.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 410,
+    "level": "easy",
+    "text": "L'air était humide près de la côte.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 411,
+    "level": "easy",
+    "text": "Elle a payé avec un billet de dix euros.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 412,
+    "level": "easy",
+    "text": "Nous avons dîné à la table.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 413,
+    "level": "easy",
+    "text": "Elle prépare du pain dans la cuisine.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 414,
+    "level": "normal",
+    "text": "Son beau-frère travaille dans la finance.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 415,
+    "level": "normal",
+    "text": "Son genou lui faisait mal à l'articulation.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 416,
+    "level": "normal",
+    "text": "Le détaillant propose des retours gratuits.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 417,
+    "level": "easy",
+    "text": "C'est une journée ensoleillée, parfaite pour marcher.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 418,
+    "level": "easy",
+    "text": "Il a trouvé une pièce sur le trottoir.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 419,
+    "level": "easy",
+    "text": "Elle est née au mois de mai.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 420,
+    "level": "easy",
+    "text": "Elle a reculé, surprise.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 421,
+    "level": "normal",
+    "text": "Elle a trouvé une bonne affaire au marché.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 422,
+    "level": "easy",
+    "text": "Je l'ai vue hier.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 423,
+    "level": "easy",
+    "text": "Il n'a pas assez d'argent pour le voyage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 424,
+    "level": "easy",
+    "text": "Elle portait une longue jupe à l'événement.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 425,
+    "level": "normal",
+    "text": "Elle portait une tenue décontractée pour le week-end.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 426,
+    "level": "easy",
+    "text": "Mon oncle m'a appris à pêcher.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 427,
+    "level": "normal",
+    "text": "Ils partent en vacances pour une quinzaine.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 428,
+    "level": "easy",
+    "text": "Ils ont conduit à travers le tunnel.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 429,
+    "level": "normal",
+    "text": "Il est trois heures et quart.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 430,
+    "level": "normal",
+    "text": "Prenez la deuxième sortie au rond-point.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 431,
+    "level": "easy",
+    "text": "Il s'est assis en bas sur la chaise.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 432,
+    "level": "easy",
+    "text": "Il faisait un froid glacial ce matin.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 433,
+    "level": "normal",
+    "text": "Ils rangent de vieilles boîtes au sous-sol.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 434,
+    "level": "easy",
+    "text": "La salle de bain est au bout du couloir.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 435,
+    "level": "normal",
+    "text": "Toute sa parentèle s'est réunie pour les fêtes.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 436,
+    "level": "easy",
+    "text": "Ils se détendent ensemble le soir.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 437,
+    "level": "easy",
+    "text": "La pluie a duré tout l'après-midi.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 438,
+    "level": "normal",
+    "text": "Ils sont passés par le passage souterrain.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 439,
+    "level": "normal",
+    "text": "L'inondation a détruit plusieurs maisons.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 440,
+    "level": "easy",
+    "text": "L'homme riche possède trois maisons.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 441,
+    "level": "easy",
+    "text": "Attendez une minute, s'il vous plaît.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 442,
+    "level": "easy",
+    "text": "Il a les yeux marron.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 443,
+    "level": "normal",
+    "text": "Ils ont pris un café sur le balcon.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 444,
+    "level": "normal",
+    "text": "L'ordinateur portable a une garantie de deux ans.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 445,
+    "level": "easy",
+    "text": "Elle est allée au magasin acheter du pain.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 446,
+    "level": "normal",
+    "text": "Elle a retiré de l'argent au distributeur.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 447,
+    "level": "easy",
+    "text": "Mon père conduit la voiture.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 448,
+    "level": "normal",
+    "text": "Elle a acheté la veste pendant les soldes.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 449,
+    "level": "easy",
+    "text": "La chambre est la plus petite pièce de la maison.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 450,
+    "level": "normal",
+    "text": "Ils ont engagé des déménageurs pour le jour du déménagement.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 451,
+    "level": "normal",
+    "text": "Elle a mis des pièces dans l'horodateur.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 452,
+    "level": "easy",
+    "text": "Elle habite dans une rue calme.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 453,
+    "level": "normal",
+    "text": "Mon neveu adore le football.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 454,
+    "level": "normal",
+    "text": "La voiture est passée sous le passage surélevé.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 455,
+    "level": "easy",
+    "text": "Elle s'est assise entre ses parents.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 456,
+    "level": "easy",
+    "text": "Elle porte des lunettes pour lire.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 457,
+    "level": "easy",
+    "text": "Ils ont marché autour du parc.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 458,
+    "level": "easy",
+    "text": "Il a gonflé son oreiller avant de dormir.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 459,
+    "level": "easy",
+    "text": "La famille pauvre avait besoin d'aide.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 460,
+    "level": "easy",
+    "text": "Il faisait trop venteux pour faire du vélo.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 461,
+    "level": "easy",
+    "text": "Il a besoin de nouvelles chaussures de course.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 462,
+    "level": "easy",
+    "text": "Ils cultivent des légumes dans le jardin.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 463,
+    "level": "normal",
+    "text": "Elle donne de l'argent de poche à son fils chaque semaine.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 464,
+    "level": "normal",
+    "text": "Ils acceptent plusieurs modes de paiement.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 465,
+    "level": "normal",
+    "text": "Il y a un courant d'air venant de cette fenêtre.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 466,
+    "level": "easy",
+    "text": "Elle part en voyage demain.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 467,
+    "level": "normal",
+    "text": "La ligne d'horizon de la ville est magnifique au coucher du soleil.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 468,
+    "level": "easy",
+    "text": "Ils ont acheté une nouvelle maison l'an dernier.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 469,
+    "level": "normal",
+    "text": "Elle utilise une application de navigation en conduisant.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 470,
+    "level": "normal",
+    "text": "Prenez la deuxième sortie au carrefour giratoire.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 471,
+    "level": "normal",
+    "text": "Le locataire paie son loyer le premier du mois.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 472,
+    "level": "normal",
+    "text": "La maison servait de nantissement pour le prêt.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 473,
+    "level": "easy",
+    "text": "Il s'est penché en avant pour écouter.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 474,
+    "level": "easy",
+    "text": "Viens ici, s'il te plaît.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 475,
+    "level": "easy",
+    "text": "Il s'est séché les mains avec une serviette.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 476,
+    "level": "normal",
+    "text": "De vieilles photos étaient gardées au grenier.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 477,
+    "level": "normal",
+    "text": "Les vieilles photos la rendaient nostalgique.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 478,
+    "level": "easy",
+    "text": "La température a chuté pendant la nuit.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 479,
+    "level": "normal",
+    "text": "Elle s'est offert une frénésie d'achats avant le voyage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 480,
+    "level": "normal",
+    "text": "Ils ont acheté des fruits à un vendeur ambulant.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 481,
+    "level": "normal",
+    "text": "Le coût de la vie a fortement augmenté cette année.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 482,
+    "level": "normal",
+    "text": "Le vieux câblage peut être un risque d'incendie.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 483,
+    "level": "normal",
+    "text": "Il a acheté un vélo d'occasion.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 484,
+    "level": "normal",
+    "text": "Ils se partagent équitablement les tâches ménagères.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 485,
+    "level": "normal",
+    "text": "Les consommateurs attendent une bonne qualité.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 486,
+    "level": "normal",
+    "text": "Ils se sont fait plaisir avec un dîner chic pour leur anniversaire.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 487,
+    "level": "normal",
+    "text": "Ils ont trouvé des antiquités au marché aux puces.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 488,
+    "level": "easy",
+    "text": "Il a oublié sa brosse à dents en voyage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 489,
+    "level": "easy",
+    "text": "Sa femme enseigne à l'école.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 490,
+    "level": "normal",
+    "text": "Des travaux ont forcé une déviation en ville.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 491,
+    "level": "normal",
+    "text": "Il a un abonnement au magasin de sport.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 492,
+    "level": "easy",
+    "text": "Il n'a pas trouvé de chaussettes assorties.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 493,
+    "level": "normal",
+    "text": "Ils ont pris le trottoir roulant à l'aéroport.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 494,
+    "level": "easy",
+    "text": "Nous avons passé la journée à la plage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 495,
+    "level": "normal",
+    "text": "La cabane semblait douillette pendant l'orage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 496,
+    "level": "normal",
+    "text": "Le médecin a vérifié sa tension artérielle.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 497,
+    "level": "normal",
+    "text": "Il lui a offert une carte cadeau pour son anniversaire.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 498,
+    "level": "easy",
+    "text": "Il a compté jusqu'à dix.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 499,
+    "level": "easy",
+    "text": "Le ciel était nuageux toute la matinée.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 500,
+    "level": "easy",
+    "text": "La neige a recouvert toute la rue.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 501,
+    "level": "normal",
+    "text": "Ma nièce vient de commencer l'école.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 502,
+    "level": "normal",
+    "text": "Vérifiez toujours votre rétroviseur avant de changer de voie.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 503,
+    "level": "normal",
+    "text": "Une brise fraîche venait de l'océan.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 504,
+    "level": "normal",
+    "text": "La région a un climat tropical.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 505,
+    "level": "easy",
+    "text": "Elle a regardé en haut vers le ciel.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 506,
+    "level": "easy",
+    "text": "Il y avait une longue file à la caisse.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 507,
+    "level": "easy",
+    "text": "La température est tombée à zéro.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 508,
+    "level": "easy",
+    "text": "Elle a acheté le manteau pendant la vente.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 509,
+    "level": "easy",
+    "text": "Nous avons une réunion aujourd'hui.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 510,
+    "level": "easy",
+    "text": "Elle a de longs cheveux bruns.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 511,
+    "level": "easy",
+    "text": "Mets la boîte là-bas.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 512,
+    "level": "easy",
+    "text": "Merci de fermer la porte derrière vous.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 513,
+    "level": "easy",
+    "text": "Il s'est cogné la tête contre la porte.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 514,
+    "level": "easy",
+    "text": "Il a mis la monnaie dans sa poche.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 515,
+    "level": "normal",
+    "text": "Ils paient la facture d'électricité en ligne.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 516,
+    "level": "easy",
+    "text": "Il a peint le mur en bleu.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 517,
+    "level": "easy",
+    "text": "Le bébé dort tout l'après-midi.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 518,
+    "level": "easy",
+    "text": "Le prix de la chemise était trop élevé.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 519,
+    "level": "easy",
+    "text": "Il est assez fort pour soulever la boîte.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 520,
+    "level": "normal",
+    "text": "La plomberie a dû être réparée après la fuite.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 521,
+    "level": "normal",
+    "text": "Une rafale a fait tomber plusieurs arbres.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 522,
+    "level": "normal",
+    "text": "Ils habitent dans une impasse tranquille.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 523,
+    "level": "normal",
+    "text": "Elle a peint la chambre d'enfant en jaune pastel.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 524,
+    "level": "easy",
+    "text": "Le chien a reniflé avec son nez.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 525,
+    "level": "easy",
+    "text": "Il est arrivé en retard à la réunion.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 526,
+    "level": "easy",
+    "text": "Ils sont restés dans un village de montagne.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 527,
+    "level": "normal",
+    "text": "Son vieux jean était délavé après les lavages.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 528,
+    "level": "normal",
+    "text": "L'héritage fut une aubaine bienvenue.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 529,
+    "level": "normal",
+    "text": "Ils ont loué un appartement entièrement meublé.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 530,
+    "level": "easy",
+    "text": "Il portait une chemise bleue au travail.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 531,
+    "level": "easy",
+    "text": "Elle a mis sa veste avant de sortir.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 532,
+    "level": "normal",
+    "text": "Les chaussures étaient en rupture de stock dans sa taille.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 533,
+    "level": "easy",
+    "text": "Nous avons dîné en famille dimanche.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 534,
+    "level": "normal",
+    "text": "Ils ont fait du lèche-vitrines au centre-ville.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 535,
+    "level": "easy",
+    "text": "Elle a un frère.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 536,
+    "level": "easy",
+    "text": "Mon cousin nous rend visite cet été.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 537,
+    "level": "normal",
+    "text": "Le propriétaire a réparé le chauffage cassé.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 538,
+    "level": "easy",
+    "text": "Les murs sont peints en blanc.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 539,
+    "level": "normal",
+    "text": "Son beau-père l'a élevée depuis l'âge de cinq ans.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 540,
+    "level": "easy",
+    "text": "Il a oublié son portefeuille à la maison.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 541,
+    "level": "normal",
+    "text": "Ils ont contracté un crédit immobilier pour leur première maison.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 542,
+    "level": "easy",
+    "text": "Il a économisé des pièces dans sa tirelire.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 543,
+    "level": "easy",
+    "text": "Le vol dure environ deux heures.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 544,
+    "level": "normal",
+    "text": "Elle a demandé un remboursement pour l'article cassé.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 545,
+    "level": "normal",
+    "text": "Ils ont signé un bail d'un an.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 546,
+    "level": "easy",
+    "text": "Apportez un parapluie, c'est la saison pluvieuse.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 547,
+    "level": "normal",
+    "text": "Une bonne isolation garde la maison au chaud.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 548,
+    "level": "easy",
+    "text": "Ils se sont mariés l'année dernière.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 549,
+    "level": "normal",
+    "text": "Les encombrements ont retardé leur arrivée.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 550,
+    "level": "normal",
+    "text": "2024 était une année bissextile.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 551,
+    "level": "normal",
+    "text": "Le locataire a fait face à une expulsion après un retard de loyer.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 552,
+    "level": "normal",
+    "text": "Elle a raccourci l'ourlet de la robe.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 553,
+    "level": "normal",
+    "text": "Il a vérifié attentivement son relevé bancaire.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 554,
+    "level": "normal",
+    "text": "Un bon score de crédit aide à obtenir un prêt.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 555,
+    "level": "normal",
+    "text": "L'inflation réduit le pouvoir d'achat.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 556,
+    "level": "easy",
+    "text": "La musique était trop bruyante.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 557,
+    "level": "normal",
+    "text": "Il a utilisé une application de covoiturage pour rentrer chez lui.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 558,
+    "level": "normal",
+    "text": "Les résidents ont besoin d'un permis de stationner.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 559,
+    "level": "normal",
+    "text": "Sa belle-mère est très gentille avec lui.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 560,
+    "level": "normal",
+    "text": "Elle a posé une plante sur le rebord de la fenêtre.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 561,
+    "level": "easy",
+    "text": "Elle a acheté un nouveau pantalon pour le voyage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 562,
+    "level": "easy",
+    "text": "Elle a utilisé un peigne pour se coiffer.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 563,
+    "level": "normal",
+    "text": "L'infirmière a vérifié son pouls.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 564,
+    "level": "easy",
+    "text": "Sa chambre est peinte en rose.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 565,
+    "level": "easy",
+    "text": "Il portait un costume noir.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 566,
+    "level": "normal",
+    "text": "Le centre-ville historique est une voie piétonne.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 567,
+    "level": "normal",
+    "text": "Elle travaille dans l'immobilier.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 568,
+    "level": "easy",
+    "text": "Il lui a chuchoté à l'oreille.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 569,
+    "level": "easy",
+    "text": "Elle a ouvert la fenêtre pour prendre l'air.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 570,
+    "level": "normal",
+    "text": "Sa petite-fille apprend le piano.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 571,
+    "level": "normal",
+    "text": "La petite voiture semblait exiguë pour cinq personnes.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 572,
+    "level": "easy",
+    "text": "Il portait un chapeau pour se protéger du soleil.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 573,
+    "level": "easy",
+    "text": "Le bus devrait arriver bientôt.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 574,
+    "level": "normal",
+    "text": "Les enfants couraient dans le couloir.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 575,
+    "level": "easy",
+    "text": "Je te verrai la semaine prochaine.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 576,
+    "level": "easy",
+    "text": "Son mari travaille comme médecin.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 577,
+    "level": "normal",
+    "text": "Ils ont rénové la cuisine l'an dernier.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 578,
+    "level": "easy",
+    "text": "Elle s'est lavé les mains avec du savon.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 579,
+    "level": "normal",
+    "text": "Ils ont économisé pour l'acompte de la maison.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 580,
+    "level": "normal",
+    "text": "Elle a un frère jumeau.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 581,
+    "level": "normal",
+    "text": "Ils ont contracté un prêt pour acheter la voiture.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 582,
+    "level": "easy",
+    "text": "Nous partons en randonnée ce week-end.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 583,
+    "level": "normal",
+    "text": "Elle a fait des courses toute la matinée.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 584,
+    "level": "easy",
+    "text": "Leur fille adore peindre.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 585,
+    "level": "easy",
+    "text": "Elle a ouvert la bouche pour parler.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 586,
+    "level": "normal",
+    "text": "Son frère aîné vit à l'étranger.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 587,
+    "level": "normal",
+    "text": "Ils ont programmé une estimation avant de vendre la maison.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 588,
+    "level": "normal",
+    "text": "Le sommet offre un panorama magnifique de la vallée.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 589,
+    "level": "normal",
+    "text": "L'entreprise a déposé le bilan.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 590,
+    "level": "normal",
+    "text": "Elle a désencombré son placard le week-end dernier.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 591,
+    "level": "normal",
+    "text": "Il s'est retrouvé à découvert après la facture imprévue.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 592,
+    "level": "easy",
+    "text": "Nous avons attendu quatre heures.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 593,
+    "level": "normal",
+    "text": "Ils ont trouvé un stationnement public près du musée.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 594,
+    "level": "normal",
+    "text": "Nous nous retrouverons à deux heures et demie.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 595,
+    "level": "normal",
+    "text": "La banque a augmenté son taux d'intérêt cette année.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 596,
+    "level": "easy",
+    "text": "C'est son premier jour de travail.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 597,
+    "level": "normal",
+    "text": "Ils ont respecté leur budget en faisant leurs courses.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 598,
+    "level": "normal",
+    "text": "L'escalier menait au deuxième étage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 599,
+    "level": "normal",
+    "text": "Le conducteur s'est arrêté pour le piéton.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 600,
+    "level": "normal",
+    "text": "Le livre est devenu un best-seller.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 601,
+    "level": "easy",
+    "text": "Elle s'est réveillée tôt ce matin.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 602,
+    "level": "normal",
+    "text": "Elle a utilisé un vélo en libre-service pour aller au travail.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 603,
+    "level": "easy",
+    "text": "Elle a préparé sa valise la veille.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 604,
+    "level": "normal",
+    "text": "La saison des moussons commence en juin.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 605,
+    "level": "easy",
+    "text": "Les étoiles brillent cette nuit.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 606,
+    "level": "easy",
+    "text": "La boîte était complètement vide.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 607,
+    "level": "normal",
+    "text": "Elle a pris un raccourci à travers le parc.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 608,
+    "level": "normal",
+    "text": "Elle est restée dans sa limite de crédit.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 609,
+    "level": "normal",
+    "text": "Elle travaille avec un conseiller en planification financière.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 610,
+    "level": "normal",
+    "text": "La banque a enregistré la transaction immédiatement.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 611,
+    "level": "easy",
+    "text": "Le ciel est devenu gris avant l'orage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 612,
+    "level": "normal",
+    "text": "Il s'est blessé la colonne vertébrale dans l'accident.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 613,
+    "level": "easy",
+    "text": "Elle portait une robe rouge au mariage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 614,
+    "level": "easy",
+    "text": "Voici le dernier chapitre du livre.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 615,
+    "level": "normal",
+    "text": "L'inflation a rendu les courses plus chères.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 616,
+    "level": "normal",
+    "text": "Elle paie le canapé en plusieurs mensualités.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 617,
+    "level": "easy",
+    "text": "Rome est une belle ville historique.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 618,
+    "level": "easy",
+    "text": "Mon frère joue au football.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 619,
+    "level": "easy",
+    "text": "Le chat dort sur le lit.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 620,
+    "level": "easy",
+    "text": "Il s'est cassé le bras en skiant.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 621,
+    "level": "easy",
+    "text": "Le coucher de soleil était violet.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 622,
+    "level": "easy",
+    "text": "Il a tiré une chaise vers la table.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 623,
+    "level": "easy",
+    "text": "Il a mis son manteau avant de sortir.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 624,
+    "level": "normal",
+    "text": "La sécheresse a endommagé les récoltes.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 625,
+    "level": "normal",
+    "text": "Tournez à gauche au carrefour.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 626,
+    "level": "easy",
+    "text": "Quelle est la date d'aujourd'hui ?",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 627,
+    "level": "normal",
+    "text": "Elle a regardé les nouveautés du magasin.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 628,
+    "level": "normal",
+    "text": "Elle a partagé une astuce d'économie avec son amie.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 629,
+    "level": "normal",
+    "text": "La voiture a heurté un nid-de-poule.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 630,
+    "level": "easy",
+    "text": "L'aéroport est loin du centre-ville.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 631,
+    "level": "easy",
+    "text": "Le magasin est du côté droit de la rue.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 632,
+    "level": "normal",
+    "text": "Elle s'est fêlé une côte en tombant.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 633,
+    "level": "easy",
+    "text": "L'hôtel était trop cher pour nous.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 634,
+    "level": "easy",
+    "text": "Le jeune chiot adore jouer.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 635,
+    "level": "easy",
+    "text": "Ma tante habite dans une autre ville.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 636,
+    "level": "normal",
+    "text": "Leur famille recomposée compte quatre enfants.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 637,
+    "level": "easy",
+    "text": "Le vent a fait tomber les feuilles.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 638,
+    "level": "easy",
+    "text": "Des nuages sombres se sont amassés.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 639,
+    "level": "easy",
+    "text": "Ma mère cuisine tous les soirs.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 640,
+    "level": "normal",
+    "text": "Il portait un costume sur mesure au mariage.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 641,
+    "level": "normal",
+    "text": "Elle a acheté un téléphone flambant neuf.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 642,
+    "level": "easy",
+    "text": "Leur fils étudie à l'université.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 643,
+    "level": "normal",
+    "text": "Elle a utilisé un bon de réduction à la caisse.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 644,
+    "level": "easy",
+    "text": "Elle a payé le marché en argent liquide.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 645,
+    "level": "easy",
+    "text": "Elle a les yeux bleus.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 646,
+    "level": "normal",
+    "text": "Elle a réglé le thermostat avant de se coucher.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 647,
+    "level": "normal",
+    "text": "Les bonbons étaient un achat impulsif à la caisse.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 648,
+    "level": "easy",
+    "text": "Continuez tout droit pendant deux rues.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 649,
+    "level": "easy",
+    "text": "J'ai besoin de deux billets.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 650,
+    "level": "normal",
+    "text": "Il a marchandé avec le vendeur.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 651,
+    "level": "easy",
+    "text": "Elle a enveloppé le bébé dans une couverture.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 652,
+    "level": "easy",
+    "text": "Les champs verts s'étendent au loin.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 653,
+    "level": "normal",
+    "text": "Elle épargne la plupart de son revenu disponible.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 654,
+    "level": "easy",
+    "text": "Il s'est blessé au pied en jouant au foot.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 655,
+    "level": "easy",
+    "text": "Elle a poussé le chariot dans le magasin.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 656,
+    "level": "easy",
+    "text": "La bibliothèque est toujours calme.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 657,
+    "level": "normal",
+    "text": "Le coucher de soleil avait des teintes orange vives.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 658,
+    "level": "easy",
+    "text": "Elle a rempli son sac de courses.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 659,
+    "level": "easy",
+    "text": "Elle fait du jogging tous les matins.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 660,
+    "level": "normal",
+    "text": "Leur nouvel appartement est très spacieux.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 661,
+    "level": "easy",
+    "text": "Elle garde ses clés dans son sac à main.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 662,
+    "level": "normal",
+    "text": "Ils vivent comme une famille nucléaire typique.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 663,
+    "level": "easy",
+    "text": "Nous avons une réunion cet après-midi.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 664,
+    "level": "easy",
+    "text": "Ma sœur a deux ans de plus que moi.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 665,
+    "level": "normal",
+    "text": "L'article est de nouveau en stock.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 666,
+    "level": "normal",
+    "text": "Les deux parents ont assisté à la réunion.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 667,
+    "level": "easy",
+    "text": "Elle se sentait faible après sa maladie.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 668,
+    "level": "normal",
+    "text": "Ils ont acheté le canapé en paiement échelonné.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 669,
+    "level": "easy",
+    "text": "Tournez à gauche au prochain coin de rue.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 670,
+    "level": "normal",
+    "text": "Ses habitudes économes l'ont aidée à beaucoup épargner.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 671,
+    "level": "normal",
+    "text": "Londres et New York sont dans des fuseaux horaires différents.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 672,
+    "level": "normal",
+    "text": "Il a oublié la liste de courses à la maison.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 673,
+    "level": "easy",
+    "text": "Elle portait une robe rouge.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 674,
+    "level": "easy",
+    "text": "Le verre est plein d'eau.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 675,
+    "level": "normal",
+    "text": "Il a reçu une infraction de stationnement pour dépassement d'horaire.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 676,
+    "level": "easy",
+    "text": "Elle a acheté un parapluie jaune.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 677,
+    "level": "easy",
+    "text": "Il lui reste cinq euros.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 678,
+    "level": "easy",
+    "text": "Le livre a cent pages.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 679,
+    "level": "normal",
+    "text": "Il a remboursé sa dette l'année dernière.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 680,
+    "level": "easy",
+    "text": "Mon grand-père travaillait dans une ferme.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 681,
+    "level": "easy",
+    "text": "Elle a étiré les jambes après le vol.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 682,
+    "level": "normal",
+    "text": "Elle a saisi les coordonnées GPS dans l'application.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 683,
+    "level": "normal",
+    "text": "Traversez toujours au passage clouté.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 684,
+    "level": "easy",
+    "text": "Elle a un vélo orange.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 685,
+    "level": "normal",
+    "text": "Le taux de change a changé du jour au lendemain.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 686,
+    "level": "easy",
+    "text": "La réunion est lundi.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 687,
+    "level": "easy",
+    "text": "Elle a agité la main pour dire au revoir.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 688,
+    "level": "normal",
+    "text": "Son petit-fils lui rend visite chaque été.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 689,
+    "level": "normal",
+    "text": "Il verse une partie de son salaire sur un compte épargne.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 690,
+    "level": "easy",
+    "text": "L'horloge murale s'est arrêtée.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 691,
+    "level": "easy",
+    "text": "Les billets étaient étonnamment bon marché.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 692,
+    "level": "normal",
+    "text": "Elle a trouvé un beau manteau à la friperie.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 693,
+    "level": "normal",
+    "text": "Merci d'envoyer la facture avant vendredi.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 694,
+    "level": "easy",
+    "text": "Nous achetons des légumes frais au marché.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 695,
+    "level": "easy",
+    "text": "Il a payé le café en espèces.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 696,
+    "level": "normal",
+    "text": "Le grossiste fournit plusieurs magasins locaux.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 697,
+    "level": "normal",
+    "text": "Ils habitent dans un quartier résidentiel tranquille.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 698,
+    "level": "normal",
+    "text": "Elle a scanné sa carte de fidélité à la caisse.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 699,
+    "level": "normal",
+    "text": "C'est un sens interdit, alors soyez prudent.",
+    "topic": "everyday_life",
+    "language": "fr"
+  },
+  {
+    "id": 700,
+    "level": "normal",
+    "text": "Ils appellent leurs proches à l'étranger chaque semaine.",
+    "topic": "everyday_life",
+    "language": "fr"
+  }
+]

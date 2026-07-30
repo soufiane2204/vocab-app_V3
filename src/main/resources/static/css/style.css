@@ -1,0 +1,705 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+    --paper: #f4efe4;
+    --paper-raised: #fffdf8;
+    --ink: #24303a;
+    --ink-soft: #5b6a74;
+    --rule: #d8cdb4;
+
+    --easy: #3f7a5c;
+    --easy-bg: #e6efe6;
+    --normal: #b9821f;
+    --normal-bg: #f5ecd8;
+    --hard: #a13d3d;
+    --hard-bg: #f3e2df;
+
+    --accent: #2c4a52;
+
+    --radius: 10px;
+    --shadow: 0 2px 6px rgba(36, 48, 58, 0.08), 0 1px 2px rgba(36, 48, 58, 0.06);
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-image:
+        radial-gradient(circle at 1px 1px, rgba(36,48,58,0.05) 1px, transparent 0);
+    background-size: 22px 22px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ---------- Header ---------- */
+.app-header {
+    background: var(--accent);
+    color: var(--paper-raised);
+    padding: 22px 24px;
+    border-bottom: 4px double rgba(255,255,255,0.35);
+}
+
+.header-inner {
+    max-width: 980px;
+    margin: 0 auto;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.app-header h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 1.6rem;
+    margin: 0;
+    letter-spacing: 0.01em;
+}
+
+.breadcrumb {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+    opacity: 0.85;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+/* ---------- Main layout ---------- */
+.app-main {
+    flex: 1;
+    max-width: 980px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 32px 24px 60px;
+}
+
+.view.hidden { display: none; }
+
+h2 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 1.7rem;
+    margin: 0 0 6px;
+}
+
+.subtitle {
+    color: var(--ink-soft);
+    margin: 0 0 28px;
+}
+
+.back-btn {
+    background: none;
+    border: none;
+    color: var(--accent);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.85rem;
+    cursor: pointer;
+    padding: 0;
+    margin-bottom: 18px;
+}
+.back-btn:hover { text-decoration: underline; }
+
+/* ---------- Level selection ---------- */
+.level-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+}
+
+.level-grid.two-col {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 620px;
+}
+
+.level-card {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 28px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    border-top: 6px solid var(--rule);
+}
+
+.level-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(36,48,58,0.12);
+}
+
+.level-card.easy { border-top-color: var(--easy); }
+.level-card.normal { border-top-color: var(--normal); }
+.level-card.hard { border-top-color: var(--hard); }
+
+.level-emoji { font-size: 2rem; }
+.level-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+.level-desc {
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    text-align: center;
+}
+
+/* ---------- Category grid ---------- */
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 14px;
+}
+
+.category-card {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 18px 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    cursor: pointer;
+    transition: transform 0.15s ease;
+    text-align: left;
+}
+
+.category-card:hover { transform: translateY(-2px); }
+
+.category-icon { font-size: 1.6rem; }
+.category-name {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 1.05rem;
+}
+.category-count {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+}
+
+/* ---------- Word list / toolbar ---------- */
+.words-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 18px;
+}
+
+.mode-toggle { display: flex; gap: 6px; }
+
+.mode-btn {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: 20px;
+    padding: 6px 14px;
+    cursor: pointer;
+    color: var(--ink-soft);
+}
+.mode-btn.active {
+    background: var(--accent);
+    color: var(--paper-raised);
+    border-color: var(--accent);
+}
+
+.word-list { display: flex; flex-direction: column; gap: 12px; }
+
+.word-card {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 16px 18px;
+    position: relative;
+}
+
+.word-card::before {
+    content: attr(data-index);
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--rule);
+}
+
+.word-top {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.word-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.word-emoji {
+    font-size: 1.4rem;
+    margin-right: 2px;
+}
+
+.word-pronunciation {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+    background: var(--paper);
+    border-radius: 8px;
+    padding: 1px 8px;
+}
+
+.flash-pronunciation {
+    display: block;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    margin: 2px 0 4px;
+}
+
+.flash-emoji {
+    font-size: 2.6rem;
+    display: block;
+    margin-bottom: 4px;
+}
+
+.word-pos {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    background: var(--rule);
+    padding: 2px 8px;
+    border-radius: 10px;
+}
+
+.word-meaning {
+    margin: 8px 0 4px;
+    line-height: 1.45;
+}
+
+.word-example {
+    margin: 0;
+    font-style: italic;
+    color: var(--ink-soft);
+    border-left: 3px solid var(--rule);
+    padding-left: 10px;
+}
+
+.listen-btn {
+    margin-top: 10px;
+    background: var(--easy-bg);
+    color: var(--easy);
+    border: 1px solid var(--easy);
+    border-radius: 20px;
+    padding: 5px 14px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+}
+.listen-btn:hover { filter: brightness(0.96); }
+.listen-btn.big {
+    font-size: 1rem;
+    padding: 8px 20px;
+    margin-top: 16px;
+}
+
+/* level-tinted listen buttons */
+[data-level="normal"] .listen-btn,
+.level-normal .listen-btn {
+    background: var(--normal-bg); color: var(--normal); border-color: var(--normal);
+}
+[data-level="hard"] .listen-btn,
+.level-hard .listen-btn {
+    background: var(--hard-bg); color: var(--hard); border-color: var(--hard);
+}
+
+/* ---------- Flashcards ---------- */
+.flashcard-wrap { display: flex; flex-direction: column; align-items: center; gap: 16px; }
+
+.flashcard {
+    width: 100%;
+    max-width: 460px;
+    min-height: 260px;
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 32px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    gap: 8px;
+}
+
+.flash-word {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.flash-pos {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+    color: var(--ink-soft);
+}
+
+.flip-hint {
+    margin-top: 14px;
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+}
+
+.flash-back { text-align: left; }
+.flash-meaning { font-size: 1.05rem; line-height: 1.5; }
+.flash-example { font-style: italic; color: var(--ink-soft); }
+
+.flash-nav {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.85rem;
+}
+.flash-nav button {
+    background: var(--accent);
+    color: var(--paper-raised);
+    border: none;
+    border-radius: 20px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+.flash-nav button:disabled { opacity: 0.4; cursor: default; }
+
+.hidden { display: none !important; }
+
+/* ---------- Home screen (Vocabulary / Practice) ---------- */
+.home-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    max-width: 720px;
+}
+
+.home-card {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 32px 22px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    cursor: pointer;
+    text-align: left;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    border-top: 6px solid var(--accent);
+}
+
+.home-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(36,48,58,0.12);
+}
+
+.home-emoji {
+    font-size: 2.2rem;
+}
+
+.home-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.home-desc {
+    font-size: 0.88rem;
+    color: var(--ink-soft);
+    line-height: 1.4;
+}
+
+@media (max-width: 640px) {
+    .home-grid { grid-template-columns: 1fr; }
+}
+
+/* ---------- Reading practice ---------- */
+.reading-card {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 40px 28px;
+    max-width: 620px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 18px;
+    min-height: 180px;
+}
+
+.reading-sentence {
+    font-family: 'Fraunces', serif;
+    font-size: 1.4rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* ---------- Category exercise badge ---------- */
+.category-exercise-btn {
+    margin-top: 4px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.7rem;
+    background: var(--normal-bg);
+    color: var(--normal);
+    border: 1px solid var(--normal);
+    border-radius: 12px;
+    padding: 3px 10px;
+    cursor: pointer;
+    align-self: flex-start;
+}
+
+/* ---------- Exercises ---------- */
+.exercise-progress {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+    color: var(--ink-soft);
+    margin-bottom: 8px;
+}
+
+.progress-bar-track {
+    width: 100%;
+    max-width: 620px;
+    height: 8px;
+    background: var(--rule);
+    border-radius: 6px;
+    overflow: hidden;
+    margin-bottom: 18px;
+}
+
+.progress-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--easy), var(--normal));
+    border-radius: 6px;
+    transition: width 0.35s ease;
+}
+
+.streak-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    background: var(--normal-bg);
+    color: var(--normal);
+    border-radius: 12px;
+    padding: 2px 10px;
+    margin-left: 8px;
+}
+
+.exercise-card {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 28px 24px;
+    max-width: 620px;
+}
+
+.exercise-tag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0 0 10px;
+}
+
+.exercise-sentence {
+    font-family: 'Fraunces', serif;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    margin: 0 0 20px;
+}
+
+.exercise-options {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 10px;
+}
+
+.exercise-option-btn {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 10px 14px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    text-align: left;
+}
+.exercise-option-btn:hover { border-color: var(--accent); }
+.exercise-option-btn.correct {
+    background: var(--easy-bg);
+    border-color: var(--easy);
+    color: var(--easy);
+    font-weight: 600;
+}
+.exercise-option-btn.incorrect {
+    background: var(--hard-bg);
+    border-color: var(--hard);
+    color: var(--hard);
+}
+.exercise-option-btn:disabled { cursor: default; }
+
+.exercise-feedback {
+    margin-top: 16px;
+    padding: 12px 14px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+.exercise-feedback.correct-fb {
+    background: var(--easy-bg);
+    color: var(--easy);
+}
+.exercise-feedback.incorrect-fb {
+    background: var(--hard-bg);
+    color: var(--hard);
+}
+
+/* ---------- Grouped tense exercise (Verb Tenses in Grammar in Context) ---------- */
+.tense-group-card {
+    max-width: 720px;
+}
+
+.tense-group-base {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 0 0 18px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--rule);
+}
+
+.tense-rows {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.tense-row {
+    padding-bottom: 16px;
+    border-bottom: 1px dashed var(--rule);
+}
+.tense-row:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.tense-row-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0 0 6px;
+    font-weight: 600;
+}
+
+.tense-row-sentence {
+    font-family: 'Fraunces', serif;
+    font-size: 1.08rem;
+    line-height: 1.5;
+    margin: 0 0 10px;
+}
+
+.tense-row-options {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+    gap: 8px;
+}
+
+.tense-row-options .exercise-option-btn {
+    padding: 8px 12px;
+    font-size: 0.88rem;
+}
+
+.tense-row-feedback {
+    margin-top: 10px;
+    padding: 9px 12px;
+    border-radius: 8px;
+    font-size: 0.84rem;
+    line-height: 1.4;
+}
+.tense-row-feedback.correct-fb {
+    background: var(--easy-bg);
+    color: var(--easy);
+}
+.tense-row-feedback.incorrect-fb {
+    background: var(--hard-bg);
+    color: var(--hard);
+}
+
+.exercise-next-btn {
+    margin-top: 18px;
+    background: var(--accent);
+    color: var(--paper-raised);
+    border: none;
+    border-radius: 20px;
+    padding: 9px 18px;
+    cursor: pointer;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.85rem;
+}
+
+.exercise-summary {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 28px 24px;
+    max-width: 620px;
+    text-align: center;
+}
+.exercise-summary h3 {
+    font-family: 'Fraunces', serif;
+    margin: 0 0 8px;
+}
+
+/* ---------- Footer ---------- */
+.app-footer {
+    text-align: center;
+    padding: 16px;
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+@media (max-width: 640px) {
+    .level-grid { grid-template-columns: 1fr; }
+}
